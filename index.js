@@ -33,6 +33,6 @@ class Route {
   }
   
   blocksTravelled() {
-    
+    let horizontalDistance = 
   }
 }
