@@ -18,7 +18,7 @@ class Route {
     this.endingLocation = endingLocation;
   }
   
-  avenueToInteger() {
+  avenueToInteger(avenue) {
     return eastWest.indexOf(avenue);
   }
 }
