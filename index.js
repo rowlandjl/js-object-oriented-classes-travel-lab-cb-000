@@ -19,6 +19,6 @@ class Route {
   }
   
   avenueToInteger() {
-    return eastWest.
+    return eastWest.indexOf(avenue);
   }
 }
