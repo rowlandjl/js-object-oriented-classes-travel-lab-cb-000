@@ -31,4 +31,8 @@ class Route {
   avenueToInteger(avenue) {
     return eastWest.indexOf(avenue);
   }
+  
+  blocksTravelled() {
+    
+  }
 }
